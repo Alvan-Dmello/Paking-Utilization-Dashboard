@@ -1,4 +1,4 @@
-# 🚗 Parking Utilization Analysis Dashboard
+# Parking Utilization Analysis Dashboard
 
 This project delivers a **high-performance Power BI dashboard** built for operational analysis of parking trends and utilization across a network of over **30 parking lots**. The solution utilizes advanced data modeling techniques to efficiently process 
 and visualize over **4 million transaction records**.
