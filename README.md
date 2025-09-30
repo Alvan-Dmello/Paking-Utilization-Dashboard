@@ -52,6 +52,4 @@ This repository contains the project's source code and structure, built for easy
 ---
 
 ## 🖼️ Dashboard Preview
-
-```markdown
 ![Parking Analysis Dashboard Screenshot](Parking_Analysis_Dashboard.png)
