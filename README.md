@@ -48,7 +48,7 @@ This repository contains the project's source code and structure, built for easy
     cd Paking-Utilization-Dashboard
 
 3.  **Open the Template:** Open the **`.pbit` file** using Power BI Desktop.
-4.  **Load Data:** When prompted, select the included **`Clean_Data_Sample.csv`** file to connect the Power Query steps to the data source and view the working model.
+4.  **Load Data:** When prompted, select the included **`Data_Sample.csv`** file to connect the Power Query steps to the data source and view the working model.
 
 ---
 
