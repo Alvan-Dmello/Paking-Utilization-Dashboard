@@ -53,7 +53,5 @@ This repository contains the project's source code and structure, built for easy
 
 ## 🖼️ Dashboard Preview
 
-[Insert your dashboard screenshot image here. If the file is named `Parking_Analysis_Dashboard.png` and is in the root directory, the code below will display it.]
-
 ```markdown
 ![Parking Analysis Dashboard Screenshot](Parking_Analysis_Dashboard.png)
