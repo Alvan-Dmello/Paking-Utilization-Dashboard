@@ -35,7 +35,7 @@ This repository contains the project's source code and structure, built for easy
 | :--- | :--- |
 | **`Parking_Analysis_Dashboard.pbit`** | **Power BI Template.** Contains the complete visuals, DAX measures, and Power Query steps **without the heavy dataset**. |
 | **`Data_Aggregation.ipynb`** | **Python Source Code.** Demonstrates the methodology used for data cleaning and pre-aggregation before Power BI ingestion. |
-| **`Clean_Data_Sample.csv`** | **Data Sample.** A small, anonymized extract of the cleaned data for testing the Power Query connections locally. |
+| **`Clean_Data_Sample.csv`** | **Data Sample.** A small, aggregated extract used for model inspection and review of visual design. (Note: This is a snippet of the aggregated data, not the raw data.) |
 | **`Parking_Analysis_Dashboard_Document.pdf`** | **Project Documentation.** Detailed report on methodology, data cleaning steps, and performance findings. |
 | **`Parking_Analysis_Dashboard.png`** | **Visual Preview.** Screenshot of the final dashboard design. |
 
