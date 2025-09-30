@@ -43,7 +43,7 @@ This repository contains the project's source code and structure, built for easy
 
 1.  **Clone the Repository:**
     ```bash
-    git clone ![https://github.com/Alvan-Dmello/Parking-Analysis-Dashboard.git](https://github.com/Alvan-Dmello/Parking-Analysis-Dashboard.git)
+    git clone [https://github.com/Alvan-Dmello/Paking-Utilization-Dashboard.git](https://github.com/Alvan-Dmello/Paking-Utilization-Dashboard.git)
     cd Parking-Analysis-Dashboard
     ```
 2.  **Open the Template:** Open the **`.pbit` file** using Power BI Desktop.
