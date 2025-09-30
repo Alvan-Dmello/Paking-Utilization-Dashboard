@@ -42,12 +42,13 @@ This repository contains the project's source code and structure, built for easy
 ### Local Deployment Steps
 
 1.  **Clone the Repository:**
-```bash
+
     git clone [https://github.com/Alvan-Dmello/Parking-Utilization-Dashboard.git](https://github.com/Alvan-Dmello/Parking-Utilization-Dashboard.git)
+
     cd Paking-Utilization-Dashboard
-```
-2.  **Open the Template:** Open the **`.pbit` file** using Power BI Desktop.
-3.  **Load Data:** When prompted, select the included **`Clean_Data_Sample.csv`** file to connect the Power Query steps to the data source and view the working model.
+
+3.  **Open the Template:** Open the **`.pbit` file** using Power BI Desktop.
+4.  **Load Data:** When prompted, select the included **`Clean_Data_Sample.csv`** file to connect the Power Query steps to the data source and view the working model.
 
 ---
 
